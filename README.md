@@ -1,5 +1,5 @@
 # TFRecords - 2026 EDITION
- Ever wanted a list of aliases to see who Mr. KnowItAll500 changed their alias to this week? Unfortunately, this doesn't solve it. 
+Ever wanted a list of aliases to see who Mr. KnowItAll500 changed their alias to this week? Unfortunately, this doesn't solve it. 
 
 # What?
 It's obviously a list?
