@@ -5,7 +5,7 @@ Ever wanted a list of aliases to see who Mr. KnowItAll500 changed their alias to
 It's obviously a list?
 
 # But what if I want the raw data?
-8GB, and counting, worth of casual POV demo files? Sure, someday.
+16GB, and counting, worth of casual POV demo files? Sure, someday.
 
 # And what about those random files?
 Rebuilt and then some more. Obviously not usable, templates as is, especially in regards to security. Want an SQL injection? Go ahead. Was it worth wasting time on GPT slop? No.
